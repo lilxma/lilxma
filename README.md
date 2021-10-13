@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, thanks for stopping by! 👋 
+
 
 <!--
 **lilxma/lilxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Linda *(she/her)* 👩🏻‍💻, a Computer Science student at the University of British Columbia interested in fighting climate change, building communities, and creating sustainable tech. 🌱
+
+I'm currently progressing through my career journey as a **software engineer**, dabbling in **product management**, and seeking summer/fall 2022 internships!
+
+I would love to get to know you and let's chat at lindama271@gmail.com!
