@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 I'm Linda *(she/her)* 👩🏻‍💻, a Computer Science student at the University of British Columbia interested in fighting climate change, building communities, and creating sustainable tech. 🌱
 
-I'm currently progressing through my career journey as a **software engineer**, dabbling in **product management**, and seeking fall 2022 internships!
+I'm currently progressing through my career journey as a **software engineer intern** at **Citi**, dabbling in **product management**, and seeking fall 2022 internships!
 
 I would love to get to know you and let's chat at lindama271@gmail.com!
